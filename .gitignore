@@ -287,5 +287,4 @@ bench_THMC_CC_crack_half2.i
 bench_THMC_CC_crack_original.i
 HMC_CC_crack_1.i
 HMC_CC_crack_2.i
-*.geo
 ~$Refinement_of_Mesh3.pptx
